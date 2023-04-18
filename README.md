@@ -12,7 +12,7 @@ Enter your age:15
 
 You are left with 3 years to d
 
-### 4.Compare the values of myAge and yourAge using if … else. Based on the comparison and log the result to console stating who is older (me or you). Use prompt(“Enter your age:”) to get the age as input.
+### 2.Compare the values of myAge and yourAge using if … else. Based on the comparison and log the result to console stating who is older (me or you). Use prompt(“Enter your age:”) to get the age as input.
 
 Enter your age: 30
 
